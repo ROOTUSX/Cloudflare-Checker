@@ -88,7 +88,7 @@ The developer is not responsible for any misuse or illegal activities.
 
 
 <p align="center">  
-  🚀 Developed by <b>YourName</b> | 🔥 Follow for More!  
+  🚀 Developed by <b>RootUserX</b> | 🔥 Follow for More!  
 </p>  
 
 
