@@ -33,7 +33,7 @@ sudo apt update && sudo apt install golang -y
 
 2️⃣ Clone & Build
 
-git clone https://github.com/YourUsername/cf-checker.git  
+git clone https://github.com/ROOTUSX/Cloudflare-Checker
 
 cd cf-checker  
 
@@ -84,7 +84,7 @@ ________________
 
 🔥 Want to improve this tool? Fork it, modify, and send a pull request!
 
-git clone https://github.com/YourUsername/cf-checker.git  
+git clone https://github.com/ROOTUSX/Cloudflare-Checker
 cd cf-checker
 
 _________________
