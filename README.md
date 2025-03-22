@@ -5,10 +5,10 @@
   <b>A high-performance tool to detect Cloudflare protection, fetch real IPs, and analyze response details.</b>  
   <br>  
   <br>  
-  <img src="https://img.shields.io/github/stars/YourUsername/cf-checker?color=yellow&style=flat-square">  
-  <img src="https://img.shields.io/github/forks/YourUsername/cf-checker?color=blue&style=flat-square">  
-  <img src="https://img.shields.io/github/issues/YourUsername/cf-checker?color=red&style=flat-square">  
-  <img src="https://img.shields.io/github/license/YourUsername/cf-checker?color=green&style=flat-square">  
+  <img src="https://img.shields.io/github/stars/ROOTUSX/cf-checker?color=yellow&style=flat-square">  
+  <img src="https://img.shields.io/github/forks/ROOTUSX/cf-checker?color=blue&style=flat-square">  
+  <img src="https://img.shields.io/github/issues/ROOTUSX/cf-checker?color=red&style=flat-square">  
+  <img src="https://img.shields.io/github/license/ROOTUSX/cf-checker?color=green&style=flat-square">  
 </p>  
 
 🚀 Features
