@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/github/license/ROOTUSX/cf-checker?color=green&style=flat-square">  
 </p>  
 
+_________________
+
 🚀 Features
 
 ✔ Cloudflare Detection (Headers, JS Challenge, CAPTCHA, HTML Analysis)
@@ -22,7 +24,8 @@
 ✔ Animated Startup with Your Name
 
 
-##⚡ Installation & Usage
+_________________
+🚀🚀 Installation & Usage 🚀
 
 1️⃣ Install Go (If Not Installed)
 
@@ -31,9 +34,12 @@ sudo apt update && sudo apt install golang -y
 2️⃣ Clone & Build
 
 git clone https://github.com/YourUsername/cf-checker.git  
+
 cd cf-checker  
+
 go build -o cf-ck
 
+__________________
 3️⃣ Run the Tool
 
  ./cf-ck websites.txt
@@ -43,6 +49,7 @@ go build -o cf-ck
 ./cf-ck websites.txt -o results.txt
 
 
+__________________
 🎨 Example Output
 
 🔵 Starting Cloudflare Protection Check...  
@@ -56,7 +63,7 @@ go build -o cf-ck
 
 ⚠ failedsite.com → [Error] Connection Timeout
 
-
+_________________
 🛠 Advanced Usage
 
 💡 Scan a Single Website
@@ -72,7 +79,7 @@ echo "example.com" > single.txt
 
 ./cf-ck websites.txt -o cloudflare_results.txt
 
-
+________________
 💻 Contributing
 
 🔥 Want to improve this tool? Fork it, modify, and send a pull request!
@@ -80,20 +87,20 @@ echo "example.com" > single.txt
 git clone https://github.com/YourUsername/cf-checker.git  
 cd cf-checker
 
+_________________
 
 ⚠ Legal Disclaimer
 
 This tool is for educational and research purposes only. Use it responsibly.
 The developer is not responsible for any misuse or illegal activities.
 
+_________________
 
 <p align="center">  
   🚀 Developed by <b>RootUserX</b> | 🔥 Follow for More!  
 </p>  
 
+_________________
 
 💎 This README is professionally formatted with badges, a banner, sections, and advanced usage tips.
-
-📌 Replace YourUsername and YourName before uploading.
-
 📢 Want an even fancier version? Add an asciinema GIF of the tool in action! 🚀
