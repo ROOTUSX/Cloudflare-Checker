@@ -22,7 +22,7 @@
 ✔ Animated Startup with Your Name
 
 
-⚡ Installation & Usage
+##⚡ Installation & Usage
 
 1️⃣ Install Go (If Not Installed)
 
